@@ -14,13 +14,16 @@
         <entry key="..\:/Users/HP14/AndroidStudioProjects/ExamenII/app/src/main/res/menu/menu_main.xml" value="0.153125" />
         <entry key="..\:/Users/HP14/AndroidStudioProjects/ExamenII/app/src/main/res/menu/menu_main1.xml" value="0.153125" />
         <entry key="..\:/Users/HP14/AndroidStudioProjects/ExamenII/app/src/main/res/menu/menu_main2.xml" value="0.18" />
+        <entry key="..\:/Users/ITCA/Desktop/ExamenII/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ITCA/Desktop/ExamenII/app/src/main/res/layout/activity_register_notes.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/ITCA/Desktop/ExamenII/app/src/main/res/layout/activity_update.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_crear.xml" value="0.40260416666666665" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.40260416666666665" />
       </map>
     </option>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

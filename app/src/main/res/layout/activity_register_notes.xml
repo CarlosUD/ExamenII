@@ -5,6 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:orientation="vertical"
+    android:background="#7A98AF"
     tools:context=".registerNotes"
         android:layout_height="match_parent">
     <TextView
@@ -12,6 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:textSize="26dp"
+        android:textColor="@color/black"
         android:text="Listado de Registro"/>
             <ListView
                 android:id="@+id/notesList"

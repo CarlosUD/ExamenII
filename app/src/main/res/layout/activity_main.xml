@@ -6,6 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="#7A98AF"
     tools:context=".MainActivity">
     <ScrollView
         android:layout_width="match_parent"
@@ -27,7 +28,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Titulo:"
-            android:textSize="20dp" />
+            android:textSize="20dp"
+            android:textColor="@color/black"/>
 
         <EditText
             android:id="@+id/txtTitle"
@@ -51,7 +53,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Description:"
-            android:textSize="20dp">
+            android:textSize="20dp"
+            android:textColor="@color/black">
 
         </TextView>
 
@@ -79,7 +82,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Autor:"
-            android:textSize="20dp"/>
+            android:textSize="20dp"
+            android:textColor="@color/black"/>
         <EditText
             android:id="@+id/txtAutor"
             android:layout_width="match_parent"
